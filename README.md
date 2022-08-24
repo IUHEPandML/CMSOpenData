@@ -23,5 +23,7 @@ If you wanted to delete one of the Docker containers, the command to use was doc
 Short Notes :
 
 CmsSw contains 2015 Run 2 data at AOD and miniAOD level.
+
 The scram b command is used to compile the edited code.
+
 The cmsRun command is used to run the code.
